@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This module is a fork of https://github.com/rodjek/puppet-logrotate merging some of the outstanding pull requests
+This module is a fork of https://github.com/rodjek/puppet-logrotate merging some of the outstanding pull requests. It is being referenced from https://github.com/Tradeshift/tradeshift-puppet/blob/testing/Puppetfile#L184
 
 I have also added the puppetlabs_spec_help functionality as used in [Gareth Rushgrove](https://github.com/garethr)'s [puppet-module-skeleton](https://github.com/garethr/puppet-module-skeleton).
 
